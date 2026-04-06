@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech&display=swap');
+
+h1 {
+    text-align: center;
+    color: #FAF4D3;
+    background-color: #004643;
+}
+
+body {
+    background-color: #faf4d3;
+    font-family: 'Share Tech', sans-serif;
+
+
+} 
+.Red {
+    color:red;
+}
+.Dotted {
+border: medium dotted #004643;
+
+}
