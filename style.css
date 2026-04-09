@@ -7,15 +7,41 @@ h1 {
 }
 
 body {
+    margin: 0;
+    padding: 2%;
     background-color: #faf4d3;
     font-family: 'Share Tech', sans-serif;
 
 
-} 
-.Red {
-    color:red;
 }
+
+.Red {
+    color: red;
+}
+
 .Dotted {
-border: medium dotted #004643;
+    border: medium dotted #004643;
+    padding: 2%;
+}
+.RED {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 5px;
+    display:block;
+}
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color:blue;
+    margin: 5px;
+    display:block;
+}
+.green {
+    width: 100px;
+    height: 100px;
+    background-color:green;
+    margin: 5px;
+    display:block;
 
 }
